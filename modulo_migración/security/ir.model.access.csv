@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_modulo_migración_modulo_migración,modulo_migración.modulo_migración,model_reg_migracion,modulo_migración.group_pyth_disciple,1,1,1,1
